@@ -1,2 +1,2 @@
-# RL_Forex_0
+# Reinforcement Learning Trading
 First attept at reinforcement learning trading agent
